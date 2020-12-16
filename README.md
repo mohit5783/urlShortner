@@ -1,14 +1,19 @@
 # Nintex URL Shortner
 Creating an assessment for Nintex, for URL Shortening Service. Nintex, Accelerate organization’s digital transformation journey with the next generation of Nintex Workflow Cloud. Put The Power of Process™ into the hands of your ops, IT, process professionals, business analysts, and power users. Start digitizing forms, workflows, and more today. 
 
-[![Build Status](https://travis-ci.com/mohit5783/URLShortner/API.svg?branch=master)](https://travis-ci.com/mohit5783/URLShortner)
-[![NPM version](https://img.shields.io/npm/v/URLShortner/API?style=flat-square)](https://img.shields.io/npm/v/URLShortner?style=flat-square)
-[![Package size](https://img.shields.io/bundlephobia/min/URLShortner/API)](https://img.shields.io/bundlephobia/min/URLShortner)
-[![Dependencies](https://img.shields.io/david/mohit5783/URLShortner/API.svg?style=popout-square)](https://david-dm.org/mohit5783/URLShortner)
-[![devDependencies Status](https://david-dm.org/mohit5783/URLShortner/API/dev-status.svg?style=flat-square)](https://david-dm.org/mohit5783/URLShortner?type=dev)
+[![Build Status](https://travis-ci.com/mohit5783/URLShortner/API.svg?branch=master)](https://travis-ci.com/mohit5783/URLShortner/API)
+[![NPM version](https://img.shields.io/npm/v/URLShortner/API?style=flat-square)](https://img.shields.io/npm/v/URLShortner/API?style=flat-square)
+[![Package size](https://img.shields.io/bundlephobia/min/URLShortner/API)](https://img.shields.io/bundlephobia/min/URLShortner/API)
+[![Dependencies](https://img.shields.io/david/mohit5783/URLShortner/API.svg?style=popout-square)](https://david-dm.org/mohit5783/URLShortner/API)
+[![devDependencies Status](https://david-dm.org/mohit5783/URLShortner/API/dev-status.svg?style=flat-square)](https://david-dm.org/mohit5783/URLShortner/API?type=dev)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-
+[![Build Status](https://travis-ci.com/mohit5783/URLShortner/App.svg?branch=master)](https://travis-ci.com/mohit5783/URLShortner/App)
+[![NPM version](https://img.shields.io/npm/v/URLShortner/App?style=flat-square)](https://img.shields.io/npm/v/URLShortner/App?style=flat-square)
+[![Package size](https://img.shields.io/bundlephobia/min/URLShortner/App)](https://img.shields.io/bundlephobia/min/URLShortner/App)
+[![Dependencies](https://img.shields.io/david/mohit5783/URLShortner/App.svg?style=popout-square)](https://david-dm.org/mohit5783/URLShortner/App)
+[![devDependencies Status](https://david-dm.org/mohit5783/URLShortner/App/dev-status.svg?style=flat-square)](https://david-dm.org/mohit5783/URLShortner/App?type=dev)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 ---
 ## Features ✨
 * REST API Developed in Node.js using Express.
