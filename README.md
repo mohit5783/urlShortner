@@ -14,8 +14,8 @@ Creating an assessment for Nintex, for URL Shortening Service. Nintex, Accelerat
 
 ## Project Setup
 ### Prerequisites
-You will need to have Node.js or Yarn installed in your machine. [[NodeJs](https://nodejs.org/en)] [[YarnPkg](https://yarnpkg.com/)]
-You will also need [[PostgreSQL](https://www.postgresql.org/download/)] 
+You will need to have [[Node.js](https://nodejs.org/en)] or [[Yarn](https://yarnpkg.com/)] installed in your machine. I'll prefer Node (NPM)
+
 ### Database
 No need to worry, Developer already taken care of that. The Database is in cloud and is accessible from anywhere. 
 
