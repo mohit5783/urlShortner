@@ -1,4 +1,4 @@
-# Nintex URL Shortner
+# URL Shortner
 Creating an assessment for Nintex, for URL Shortening Service. Nintex, Accelerate organization’s digital transformation journey with the next generation of Nintex Workflow Cloud. Put The Power of Process™ into the hands of your ops, IT, process professionals, business analysts, and power users. Start digitizing forms, workflows, and more today. 
 
 [![NPM version](https://img.shields.io/npm/v/Nintex/URLShortner/API?style=flat-square)](https://img.shields.io/npm/v/Nintex/URLShortner/API?style=flat-square)
